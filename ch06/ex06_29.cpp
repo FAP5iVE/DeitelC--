@@ -16,6 +16,7 @@ performance improvement.
 
 #include <iostream>
 #include <iomanip>
+#include <cmath>
 using namespace std;
 
 bool isPrimeHalf(int number)
